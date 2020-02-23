@@ -1,4 +1,4 @@
-<img src="NLP-Logo.png" align="right" alt="" width="300"/>
+<img src="Logo.png" align="right" alt="" width="300"/>
 
 # NLP Best Practices
 
